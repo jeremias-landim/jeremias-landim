@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 Olá, eu sou Jeremias Lopes Landim
 
-<!--
-**jeremias-landim/jeremias-landim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Analista de Dados / BI / engenharia de Dados  com foco em ETL, dashboards, automações e visualizações inteligentes. 
+analise de indicadores acompanhamento de negocios e gestão de equipe.
 
-Here are some ideas to get you started:
+## 🧠 Sobre mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👨‍💻 Experiência com **Power BI, Python, SQL e Excel**
+- 📊 Trabalho com projetos de **ETL**, construção de **dashboards interativos**, **modelagem de dados** e análises de negócios
+- 🚀 Interesse contínuo por ciência de dados, BI e automação de tarefas
+
+## 💡 Habilidades Técnicas
+
+- 📊 **Power BI** (DAX, M, modelagem tabular)
+- 🐍 **Python** (pandas, matplotlib, ETL, automações)
+- 🧮 **SQL** (consultas complexas, joins, CTEs)
+- 🗃️ **Excel avançado**, Power Query
+- 💻 **Git e GitHub** para controle de versão
+- Docker
+
+## 📂 Projetos em destaque
+
+- 🔄 [ETL de Clientes com Python]
+- 📊 [Dashboard Financeiro em Power BI]
+- 🧮 [Consultas SQL para Vendas]
+
+## 🌐 Onde me encontrar
+
+- [LinkedIn](https://www.linkedin.com/in/jeremias-lopes-landim/)
+- 📧 Email: jeremias.landim@gmail.com
